@@ -27,3 +27,6 @@ export default function RootLayout({
     </html>
   )
 }
+
+
+// https://pixlr.com/x/#editor
